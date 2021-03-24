@@ -1,7 +1,7 @@
 {
   "name": "@fortawesome/react-fontawesome",
   "description": "Official React component for Font Awesome 5",
-  "version": "0.1.14",
+  "version": "0.2.14",
   "main": "index.js",
   "module": "index.es.js",
   "jsnext:main": "index.es.js",
@@ -49,7 +49,7 @@
   },
   "peerDependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
-    "react": ">=16.x"
+    "react": ">=17.x"
   },
   "devDependencies": {
     "@babel/core": "^7.7.5",
@@ -59,7 +59,7 @@
     "@babel/preset-stage-3": "^7.0.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
-    "@types/react": "^16.9.15",
+    "@types/react": "^17.0.3",
     "babel-eslint": "^10.0.3",
     "babel-jest": "^24.9.0",
     "browserslist": "^4.8.2",
@@ -80,9 +80,9 @@
     "markdown-toc": "^1.2.0",
     "prettier": "^1.19.1",
     "pretty-quick": "^2.0.1",
-    "react": "^16.4.2",
-    "react-dom": "^16.12.0",
-    "react-test-renderer": "^16.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-test-renderer": "^17.0.2",
     "rollup": "^1.27.8",
     "rollup-plugin-babel": "^4.3.3",
     "rollup-plugin-commonjs": "^10.1.0",
